@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "eventId": 1,
+  "title": "agenda title",
+  "description": "agenda description",
+  "duration": 40,
+  "creatorId": 1
+}

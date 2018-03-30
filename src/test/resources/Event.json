@@ -1,0 +1,89 @@
+[
+  {
+    "kind": "calendar#event",
+    "etag": "\"3038475635158000\"",
+    "id": "3qqh2ma9vh1lutc3jgncqf92gb",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=M3FxaDJtYTl2aDFsdXRjM2pnbmNxZjkyZ2IgeW0yMjRAY29ybmVsbC5lZHU",
+    "created": "2018-02-21T18:30:17.000Z",
+    "updated": "2018-02-21T18:30:17.579Z",
+    "summary": "WiTNY Pi Day Event - A Discussion around Inclusive Leadership",
+    "location": "Tata Innovation Center 11 East Loop Road New York NY 10044",
+    "creator": {
+      "email": "ym224@cornell.edu",
+      "displayName": "Yunie Mao",
+      "self": true
+    },
+    "organizer": {
+      "email": "ym224@cornell.edu",
+      "displayName": "Yunie Mao",
+      "self": true
+    },
+    "start": {
+      "dateTime": "2018-03-14T17:15:00-04:00"
+    },
+    "end": {
+      "dateTime": "2018-03-14T20:30:00-04:00"
+    },
+    "iCalUID": "3qqh2ma9vh1lutc3jgncqf92gb@google.com",
+    "sequence": 0,
+    "reminders": {
+      "useDefault": true
+    }
+  },
+  {
+    "kind": "calendar#event",
+    "etag": "\"3035942231294000\"",
+    "id": "c5i36chn64o6cb9g60rj8b9k6orm2b9p6srj8bb16go32p1hclj34or4c4",
+    "status": "confirmed",
+    "htmlLink": "https://www.google.com/calendar/event?eid=YzVpMzZjaG42NG82Y2I5ZzYwcmo4YjlrNm9ybTJiOXA2c3JqOGJiMTZnbzMycDFoY2xqMzRvcjRjNCB5bTIyNEBjb3JuZWxsLmVkdQ",
+    "created": "2018-02-06T23:03:30.000Z",
+    "updated": "2018-02-07T02:38:35.647Z",
+    "summary": "Tivoli / Tara",
+    "creator": {
+      "email": "jrh383@cornell.edu"
+    },
+    "organizer": {
+      "email": "jrh383@cornell.edu"
+    },
+    "start": {
+      "dateTime": "2018-04-30T08:30:00-04:00"
+    },
+    "end": {
+      "dateTime": "2018-04-30T09:00:00-04:00"
+    },
+    "iCalUID": "c5i36chn64o6cb9g60rj8b9k6orm2b9p6srj8bb16go32p1hclj34or4c4@google.com",
+    "sequence": 0,
+    "attendees": [
+      {
+        "email": "chw68@cornell.edu",
+        "displayName": "Cameron Westbury",
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "chena931@newschool.edu",
+        "displayName": "Amber Chen",
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "yz2237@cornell.edu",
+        "displayName": "Yating Zhan",
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "ym224@cornell.edu",
+        "displayName": "Yunie Mao",
+        "self": true,
+        "responseStatus": "accepted"
+      },
+      {
+        "email": "jrh383@cornell.edu",
+        "organizer": true,
+        "responseStatus": "accepted"
+      }
+    ],
+    "reminders": {
+      "useDefault": true
+    }
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "eventId": 1,
+  "agendaId": 1,
+  "title": "agenda title",
+  "description": "agenda description",
+  "duration": 40,
+  "note": "some notes during the meeting",
+  "isKeyDecision": true,
+  "isPrivate": false,
+  "assigneeId": 3,
+  "creatorId": 1
+}
